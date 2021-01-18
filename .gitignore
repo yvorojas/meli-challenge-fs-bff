@@ -1,0 +1,8 @@
+node_modules
+npm-debug.log
+coverage
+yarn-error.log
+build
+
+# stryker temp files
+.stryker-tmp

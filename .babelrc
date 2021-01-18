@@ -1,0 +1,14 @@
+{
+    "presets": ["@babel/preset-env"],
+    "plugins": [
+      [
+        "@babel/transform-runtime",
+        {
+          "regenerator": true
+        }
+      ]
+    ],
+    "sourceMaps": true,
+    "retainLines": true
+  }
+  

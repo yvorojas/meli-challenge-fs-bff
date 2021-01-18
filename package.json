@@ -1,0 +1,40 @@
+{
+  "name": "meli-challenge-fs-bff",
+  "version": "1.0.0",
+  "description": "challenge for fullstack, bff part",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm-run-all clean transpile",
+    "transpile": "babel src --out-dir build --source-maps",
+    "server": "node  -r dotenv/config ./build",
+    "dev": "NODE_ENV=development npm-run-all build server",
+    "clean": "rimraf build",
+    "watch:dev": "nodemon"
+  },
+  "repository": "git@github.com:yvorojas/meli-challenge-fs-bff.git",
+  "author": "Yvo Rojas Valdes <yvo.rojas.valdes@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "http-status-codes": "^2.1.4"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.10.5",
+    "@babel/plugin-transform-runtime": "^7.10.5",
+    "@babel/preset-env": "^7.10.4",
+    "@babel/register": "^7.10.5",
+    "babel-jest": "^26.1.0",
+    "dotenv": "^8.2.0",
+    "husky": "^4.2.5",
+    "jest": "^26.1.0",
+    "moxios": "^0.4.0",
+    "nodemon": "^2.0.4",
+    "npm-run-all": "^4.1.5",
+    "rimraf": "^3.0.2",
+    "supertest": "^4.0.2"
+  }
+}
