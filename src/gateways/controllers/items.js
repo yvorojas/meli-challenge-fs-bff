@@ -1,7 +1,7 @@
 import { StatusCodes } from 'http-status-codes'
 import { createRouter } from '../interfaces/server'
 import itemsUseCases from '../../application/useCases/items'
-import { NotFound } from './exceptions/ServerError'
+import { NotFound } from '../../common/exceptions/ServerError'
 import { InternalServerError } from 'http-errors'
 
 const router = createRouter()
