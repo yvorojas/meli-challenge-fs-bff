@@ -1,0 +1,65 @@
+{
+  "author": {
+    "lastname": "Rojas",
+    "name": "Yvo"
+  },
+  "categories": [
+    "Ropa y Accesorios",
+    "Equipaje, Bolsos y Carteras",
+    "Mochilas"
+  ],
+  "items": [
+    {
+      "address": "Capital Federal",
+      "condition": "new",
+      "free_shipping": true,
+      "id": "MLA818325858",
+      "picture": "http://mla-s1-p.mlstatic.com/619542-MLA40904158400_022020-I.jpg",
+      "price": {
+        "amount": 2512,
+        "currency": "ARS",
+        "decimals": 15
+      },
+      "title": "Rest Avalon Classic Std Para Arco Recurvo Profesional X1"
+    },
+    {
+      "address": "Capital Federal",
+      "condition": "new",
+      "free_shipping": false,
+      "id": "MLA801673180",
+      "picture": "http://mla-s1-p.mlstatic.com/864524-MLA31499804596_072019-I.jpg",
+      "price": {
+        "amount": 649,
+        "currency": "ARS",
+        "decimals": 0
+      },
+      "title": "Rest Magnético Descanso Para Flecha Arqueria Jandao"
+    },
+    {
+      "address": "Capital Federal",
+      "condition": "new",
+      "free_shipping": false,
+      "id": "MLA805734802",
+      "picture": "http://mla-s1-p.mlstatic.com/651866-MLA31685404884_082019-I.jpg",
+      "price": {
+        "amount": 1870,
+        "currency": "ARS",
+        "decimals": 75
+      },
+      "title": "Rest Magnetico Autoadhesivo Premium Marca Avalon"
+    },
+    {
+      "address": "Capital Federal",
+      "condition": "new",
+      "free_shipping": true,
+      "id": "MLA810294857",
+      "picture": "http://mla-s2-p.mlstatic.com/995112-MLA31896725487_082019-I.jpg",
+      "price": {
+        "amount": 2999,
+        "currency": "ARS",
+        "decimals": 99
+      },
+      "title": "Rest Biscuit Negro Ambidiestro Para Arco Compuesto Flechas Arqueria"
+    }
+  ]
+}

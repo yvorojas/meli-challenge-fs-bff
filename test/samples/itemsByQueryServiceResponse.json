@@ -1,0 +1,2730 @@
+{
+  "site_id": "MLA",
+  "query": "mochila",
+  "paging": {
+    "total": 58596,
+    "offset": 0,
+    "limit": 4,
+    "primary_results": 1000
+  },
+  "results": [
+    {
+      "id": "MLA812659779",
+      "site_id": "MLA",
+      "title": "Mochila Unisex Con Usb 4 Bolsillos Porta Notebook ",
+      "seller": {
+        "id": 161901507,
+        "permalink": "http://perfil.mercadolibre.com.ar/IKOVENTAS",
+        "registration_date": "2014-07-03T15:38:42.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "normal",
+          "user_info_verified",
+          "credits_profile",
+          "messages_as_seller",
+          "messages_as_buyer"
+        ],
+        "seller_reputation": {
+          "transactions": {
+            "total": 45314,
+            "canceled": 2022,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.02,
+              "positive": 0.97,
+              "neutral": 0.01
+            },
+            "completed": 43292
+          },
+          "power_seller_status": "platinum",
+          "metrics": {
+            "claims": {
+              "rate": 0.0147,
+              "value": 249,
+              "period": "3 months"
+            },
+            "delayed_handling_time": {
+              "rate": 0.0015,
+              "value": 23,
+              "period": "3 months"
+            },
+            "sales": {
+              "period": "3 months",
+              "completed": 16001
+            },
+            "cancellations": {
+              "rate": 0.0013,
+              "value": 22,
+              "period": "3 months"
+            }
+          },
+          "level_id": "5_green"
+        }
+      },
+      "price": 1300,
+      "currency_id": "ARS",
+      "available_quantity": 50,
+      "sold_quantity": 250,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_pro",
+      "stop_time": "2039-10-20T02:32:54.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-812659779-mochila-unisex-con-usb-4-bolsillos-porta-notebook-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/976357-MLA32652732415_102019-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 6,
+        "amount": 216.67,
+        "rate": 0,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQkNIQTM5NjBa",
+        "city_name": "Chacarita"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": ["fulfillment"],
+        "logistic_type": "fulfillment",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQkNIQTM5NjBa",
+          "name": "Chacarita"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "Iko shop",
+              "struct": null,
+              "source": 6808261514773724
+            }
+          ],
+          "id": "BRAND",
+          "name": "Marca",
+          "value_name": "Iko shop",
+          "source": 6808261514773724,
+          "value_id": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+        },
+        {
+          "name": "Condición del ítem",
+          "value_id": "2230284",
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 6808261514773724
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "source": 6808261514773724,
+          "id": "ITEM_CONDITION",
+          "value_name": "Nuevo",
+          "value_struct": null,
+          "attribute_group_name": "Otros"
+        },
+        {
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "source": 6808261514773724,
+          "value_name": "Kad-188",
+          "values": [
+            {
+              "id": null,
+              "name": "Kad-188",
+              "struct": null,
+              "source": 6808261514773724
+            }
+          ],
+          "value_id": null,
+          "value_struct": null,
+          "id": "MODEL",
+          "name": "Modelo"
+        }
+      ],
+      "differential_pricing": {
+        "id": 33678187
+      },
+      "original_price": null,
+      "category_id": "MLA120350",
+      "official_store_id": null,
+      "domain_id": "MLA-BACKPACKS",
+      "catalog_product_id": null,
+      "tags": [
+        "loyalty_discount_eligible",
+        "brand_verified",
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed"
+      ]
+    },
+    {
+      "id": "MLA699704580",
+      "site_id": "MLA",
+      "title": "Mochila Porta Notebook Urbana Resistente Acolchada Division Bolsillos Practica Envios* Tsr",
+      "seller": {
+        "id": 95340604,
+        "permalink": "http://perfil.mercadolibre.com.ar/TODOSOBRERUEDAS_ONLINE",
+        "registration_date": "2009-12-05T16:13:09.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "normal",
+          "user_info_verified",
+          "credits_priority_3",
+          "mshops",
+          "credits_profile",
+          "messages_as_seller",
+          "messages_as_buyer"
+        ],
+        "seller_reputation": {
+          "transactions": {
+            "total": 44272,
+            "canceled": 2975,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.03,
+              "positive": 0.95,
+              "neutral": 0.02
+            },
+            "completed": 41297
+          },
+          "power_seller_status": "platinum",
+          "metrics": {
+            "claims": {
+              "rate": 0.0113,
+              "value": 63,
+              "period": "3 months"
+            },
+            "delayed_handling_time": {
+              "rate": 0.0026,
+              "value": 13,
+              "period": "3 months"
+            },
+            "sales": {
+              "period": "3 months",
+              "completed": 5197
+            },
+            "cancellations": {
+              "rate": 0.005,
+              "value": 28,
+              "period": "3 months"
+            }
+          },
+          "level_id": "5_green"
+        }
+      },
+      "price": 1399,
+      "currency_id": "ARS",
+      "available_quantity": 50,
+      "sold_quantity": 250,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2037-12-25T20:16:22.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-699704580-mochila-porta-notebook-urbana-resistente-acolchada-division-bolsillos-practica-envios-tsr-_JM",
+      "thumbnail": "http://mla-s1-p.mlstatic.com/693027-MLA41694048773_052020-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 198.39,
+        "rate": 70.17,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQlZJTDQyMjBa",
+        "city_name": "Villa Crespo"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": ["fulfillment", "self_service_out"],
+        "logistic_type": "fulfillment",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQlZJTDQyMjBa",
+          "name": "Villa Crespo"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "source": 3376461333454861,
+          "id": "BRAND",
+          "value_id": null,
+          "value_name": "Forest",
+          "value_struct": null,
+          "name": "Marca",
+          "values": [
+            {
+              "id": null,
+              "name": "Forest",
+              "struct": null,
+              "source": 3376461333454861
+            }
+          ]
+        },
+        {
+          "value_id": "2230284",
+          "value_struct": null,
+          "attribute_group_name": "Otros",
+          "source": 6795511568268166,
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_name": "Nuevo",
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 6795511568268166
+            }
+          ],
+          "attribute_group_id": "OTHERS"
+        },
+        {
+          "values": [
+            {
+              "id": null,
+              "name": "26575-26576",
+              "struct": null,
+              "source": 3376461333454861
+            }
+          ],
+          "source": 3376461333454861,
+          "value_struct": null,
+          "name": "Modelo",
+          "value_id": null,
+          "value_name": "26575-26576",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "id": "MODEL"
+        }
+      ],
+      "original_price": null,
+      "category_id": "MLA120350",
+      "official_store_id": null,
+      "domain_id": "MLA-BACKPACKS",
+      "catalog_product_id": null,
+      "tags": [
+        "good_quality_thumbnail",
+        "brand_verified",
+        "good_quality_picture",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed"
+      ]
+    },
+    {
+      "id": "MLA784332309",
+      "site_id": "MLA",
+      "title": "Mochila Antirrobo - Tedge - Para Notebook 15.6' Con Puerto Usb 35 Lts",
+      "seller": {
+        "id": 417972986,
+        "permalink": "http://perfil.mercadolibre.com.ar/TEMAKLAARG",
+        "registration_date": "2019-03-19T08:41:57.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "brand",
+          "user_info_verified",
+          "large_seller",
+          "mshops",
+          "messages_as_seller"
+        ],
+        "seller_reputation": {
+          "transactions": {
+            "total": 109697,
+            "canceled": 4600,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.02,
+              "positive": 0.97,
+              "neutral": 0.01
+            },
+            "completed": 105097
+          },
+          "power_seller_status": "platinum",
+          "metrics": {
+            "claims": {
+              "rate": 0.0004,
+              "value": 34,
+              "period": "3 months"
+            },
+            "delayed_handling_time": {
+              "rate": 0,
+              "value": 0,
+              "period": "3 months"
+            },
+            "sales": {
+              "period": "3 months",
+              "completed": 75750
+            },
+            "cancellations": {
+              "rate": 0,
+              "value": 1,
+              "period": "3 months"
+            }
+          },
+          "level_id": "5_green"
+        }
+      },
+      "price": 1999,
+      "currency_id": "ARS",
+      "available_quantity": 5000,
+      "sold_quantity": 500,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_pro",
+      "stop_time": "2040-06-05T19:05:40.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-784332309-mochila-antirrobo-tedge-para-notebook-156-con-puerto-usb-35-lts-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/615834-MLA40914647566_022020-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 6,
+        "amount": 333.17,
+        "rate": 0,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-B",
+        "state_name": "Buenos Aires",
+        "city_id": null,
+        "city_name": "Sarandi"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "mode": "me2",
+        "tags": ["fulfillment"],
+        "logistic_type": "fulfillment",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-B",
+          "name": "Buenos Aires"
+        },
+        "city": {
+          "id": null,
+          "name": "Sarandi"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "value_name": "Tedge",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "8039499",
+              "name": "Tedge",
+              "struct": null,
+              "source": 4060709329251625
+            }
+          ],
+          "source": 4060709329251625,
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": "8039499"
+        },
+        {
+          "values": [
+            {
+              "struct": null,
+              "source": 1572,
+              "id": "2230284",
+              "name": "Nuevo"
+            }
+          ],
+          "id": "ITEM_CONDITION",
+          "value_id": "2230284",
+          "value_name": "Nuevo",
+          "attribute_group_name": "Otros",
+          "source": 1572,
+          "name": "Condición del ítem",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS"
+        },
+        {
+          "values": [
+            {
+              "id": null,
+              "name": "Mochila Antirrobo",
+              "struct": null,
+              "source": 3376461333454861
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "source": 3376461333454861,
+          "id": "LINE",
+          "name": "Línea",
+          "value_name": "Mochila Antirrobo",
+          "value_id": null,
+          "value_struct": null
+        },
+        {
+          "name": "Modelo",
+          "values": [
+            {
+              "id": "3204834",
+              "name": "Antirrobo",
+              "struct": null,
+              "source": 4060709329251625
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "id": "MODEL",
+          "value_id": "3204834",
+          "value_name": "Antirrobo",
+          "value_struct": null,
+          "source": 4060709329251625
+        }
+      ],
+      "differential_pricing": {
+        "id": 33678187
+      },
+      "original_price": 2399,
+      "category_id": "MLA120350",
+      "official_store_id": 1824,
+      "domain_id": "MLA-BACKPACKS",
+      "catalog_product_id": null,
+      "tags": [
+        "brand_verified",
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed"
+      ]
+    },
+    {
+      "id": "MLA765131734",
+      "site_id": "MLA",
+      "title": "Mochila Antirrobo Inteligente Impermeable Con Usb - Notebook",
+      "seller": {
+        "id": 93419032,
+        "permalink": "http://perfil.mercadolibre.com.ar/BELMOTEC",
+        "registration_date": "2006-04-20T22:22:47.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "normal",
+          "user_info_verified",
+          "eshop",
+          "mshops",
+          "credits_profile",
+          "messages_as_seller",
+          "messages_as_buyer"
+        ],
+        "eshop": {
+          "nick_name": "BELMOTEC",
+          "eshop_rubro": null,
+          "eshop_id": 17548,
+          "eshop_locations": [],
+          "site_id": "MLA",
+          "eshop_logo_url": "http://resources.mlstatic.com/eshops/93419032vd8badf.png",
+          "eshop_status_id": 1,
+          "seller": 93419032,
+          "eshop_experience": 0
+        },
+        "seller_reputation": {
+          "transactions": {
+            "total": 25414,
+            "canceled": 1390,
+            "period": "historic",
+            "ratings": {
+              "negative": 0,
+              "positive": 0.99,
+              "neutral": 0.01
+            },
+            "completed": 24024
+          },
+          "power_seller_status": "platinum",
+          "metrics": {
+            "claims": {
+              "rate": 0.0099,
+              "value": 64,
+              "period": "3 months"
+            },
+            "delayed_handling_time": {
+              "rate": 0.003,
+              "value": 18,
+              "period": "3 months"
+            },
+            "sales": {
+              "period": "3 months",
+              "completed": 6077
+            },
+            "cancellations": {
+              "rate": 0.0077,
+              "value": 50,
+              "period": "3 months"
+            }
+          },
+          "level_id": "5_green"
+        }
+      },
+      "price": 1899,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 500,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2039-01-09T16:53:46.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-765131734-mochila-antirrobo-inteligente-impermeable-con-usb-notebook-_JM",
+      "thumbnail": "http://mla-s1-p.mlstatic.com/956962-MLA32072652213_092019-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 269.29,
+        "rate": 70.17,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQkxJTjEzNTha",
+        "city_name": "Liniers"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": ["fulfillment", "self_service_in"],
+        "logistic_type": "fulfillment",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQkxJTjEzNTha",
+          "name": "Liniers"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "276243",
+              "name": "Genérico",
+              "struct": null,
+              "source": 1572
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "source": 1572,
+          "name": "Marca",
+          "value_id": "276243",
+          "value_name": "Genérico"
+        },
+        {
+          "value_id": "2230284",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 1572
+            }
+          ],
+          "attribute_group_name": "Otros",
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "source": 1572,
+          "value_name": "Nuevo",
+          "attribute_group_id": "OTHERS"
+        },
+        {
+          "value_name": "5815",
+          "value_struct": null,
+          "values": [
+            {
+              "struct": null,
+              "source": 1572,
+              "id": null,
+              "name": "5815"
+            }
+          ],
+          "source": 1572,
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_id": null,
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros"
+        }
+      ],
+      "original_price": 2899,
+      "category_id": "MLA120350",
+      "official_store_id": null,
+      "domain_id": "MLA-BACKPACKS",
+      "catalog_product_id": null,
+      "tags": [
+        "brand_verified",
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed"
+      ]
+    }
+  ],
+  "secondary_results": [],
+  "related_results": [],
+  "sort": {
+    "id": "relevance",
+    "name": "More relevant"
+  },
+  "available_sorts": [
+    {
+      "id": "price_asc",
+      "name": "Lower price"
+    },
+    {
+      "id": "price_desc",
+      "name": "Higher price"
+    }
+  ],
+  "filters": [
+    {
+      "id": "category",
+      "name": "Categories",
+      "type": "text",
+      "values": [
+        {
+          "id": "MLA120350",
+          "name": "Mochilas",
+          "path_from_root": [
+            {
+              "id": "MLA1430",
+              "name": "Ropa y Accesorios"
+            },
+            {
+              "id": "MLA110761",
+              "name": "Equipaje, Bolsos y Carteras"
+            },
+            {
+              "id": "MLA120350",
+              "name": "Mochilas"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "available_filters": [
+    {
+      "id": "official_store",
+      "name": "Tiendas oficiales",
+      "type": "text",
+      "values": [
+        {
+          "id": "all",
+          "name": "Todas las tiendas oficiales",
+          "results": 4239
+        },
+        {
+          "id": "994",
+          "name": "Legion Extranjera",
+          "results": 40
+        },
+        {
+          "id": "1383",
+          "name": "Samsonite",
+          "results": 99
+        },
+        {
+          "id": "1839",
+          "name": "Kossok Powersports",
+          "results": 62
+        },
+        {
+          "id": "1779",
+          "name": "Primicia",
+          "results": 14
+        },
+        {
+          "id": "1246",
+          "name": "PUMA",
+          "results": 37
+        },
+        {
+          "id": "1824",
+          "name": "Tedge",
+          "results": 1
+        },
+        {
+          "id": "1830",
+          "name": "Isadora",
+          "results": 1
+        },
+        {
+          "id": "945",
+          "name": "Gadnic",
+          "results": 1
+        }
+      ]
+    },
+    {
+      "id": "GENDER",
+      "name": "Género",
+      "type": "list",
+      "values": [
+        {
+          "id": "110461",
+          "name": "Sin género",
+          "results": 19236
+        },
+        {
+          "id": "339665",
+          "name": "Mujer",
+          "results": 11232
+        },
+        {
+          "id": "339668",
+          "name": "Niñas",
+          "results": 9108
+        },
+        {
+          "id": "339667",
+          "name": "Niños",
+          "results": 8928
+        },
+        {
+          "id": "339666",
+          "name": "Hombre",
+          "results": 6060
+        },
+        {
+          "id": "371795",
+          "name": "Bebés",
+          "results": 48
+        }
+      ]
+    },
+    {
+      "id": "discount",
+      "name": "Discounts",
+      "type": "range",
+      "values": [
+        {
+          "id": "10-100",
+          "name": "From 10% off",
+          "results": 1644
+        },
+        {
+          "id": "20-100",
+          "name": "From 20% off",
+          "results": 1112
+        },
+        {
+          "id": "30-100",
+          "name": "From 30% off",
+          "results": 367
+        },
+        {
+          "id": "40-100",
+          "name": "From 40% off",
+          "results": 174
+        }
+      ]
+    },
+    {
+      "id": "state",
+      "name": "Location",
+      "type": "text",
+      "values": [
+        {
+          "id": "TUxBUENBUGw3M2E1",
+          "name": "Capital Federal",
+          "results": 31963
+        },
+        {
+          "id": "TUxBUEdSQXJlMDNm",
+          "name": "Bs.As. G.B.A. Sur",
+          "results": 7345
+        },
+        {
+          "id": "TUxBUEdSQWVmNTVm",
+          "name": "Bs.As. G.B.A. Oeste",
+          "results": 7243
+        },
+        {
+          "id": "TUxBUEdSQWU4ZDkz",
+          "name": "Bs.As. G.B.A. Norte",
+          "results": 5341
+        },
+        {
+          "id": "TUxBUENPUmFkZGIw",
+          "name": "Córdoba",
+          "results": 2856
+        },
+        {
+          "id": "TUxBUFNBTmU5Nzk2",
+          "name": "Santa Fe",
+          "results": 1848
+        },
+        {
+          "id": "TUxBUFpPTmFpbnRl",
+          "name": "Buenos Aires Interior",
+          "results": 1056
+        },
+        {
+          "id": "TUxBUENPU2ExMmFkMw",
+          "name": "Bs.As. Costa Atlántica",
+          "results": 936
+        },
+        {
+          "id": "TUxBUENIVXQxNDM1MQ",
+          "name": "Chubut",
+          "results": 516
+        },
+        {
+          "id": "TUxBUFRVQ244NmM3",
+          "name": "Tucumán",
+          "results": 300
+        },
+        {
+          "id": "TUxBUFNBTm5lYjU4",
+          "name": "San Juan",
+          "results": 156
+        },
+        {
+          "id": "TUxBUE1FTmE5OWQ4",
+          "name": "Mendoza",
+          "results": 108
+        },
+        {
+          "id": "TUxBUEVOVHMzNTdm",
+          "name": "Entre Ríos",
+          "results": 108
+        },
+        {
+          "id": "TUxBUE5FVW4xMzMzNQ",
+          "name": "Neuquén",
+          "results": 84
+        },
+        {
+          "id": "TUxBUFNBTGFjMTJi",
+          "name": "Salta",
+          "results": 84
+        },
+        {
+          "id": "TUxBUENPUnM5MjI0",
+          "name": "Corrientes",
+          "results": 60
+        },
+        {
+          "id": "TUxBUEpVSnk3YmUz",
+          "name": "Jujuy",
+          "results": 60
+        },
+        {
+          "id": "TUxBUFLNT29iZmZm",
+          "name": "Río Negro",
+          "results": 60
+        },
+        {
+          "id": "TUxBUE1JU3MzNjIx",
+          "name": "Misiones",
+          "results": 36
+        },
+        {
+          "id": "TUxBUExBWmE1OWMy",
+          "name": "La Pampa",
+          "results": 36
+        },
+        {
+          "id": "TUxBUFNBTno3ZmY5",
+          "name": "Santa Cruz",
+          "results": 36
+        },
+        {
+          "id": "TUxBUENIQW8xMTNhOA",
+          "name": "Chaco",
+          "results": 24
+        },
+        {
+          "id": "TUxBUExBWmEyNzY0",
+          "name": "La Rioja",
+          "results": 24
+        },
+        {
+          "id": "TUxBUFNBTm9lOTlk",
+          "name": "Santiago del Estero",
+          "results": 24
+        },
+        {
+          "id": "TUxBUENBVGFiY2Fm",
+          "name": "Catamarca",
+          "results": 12
+        }
+      ]
+    },
+    {
+      "id": "price",
+      "name": "Precio",
+      "type": "range",
+      "values": [
+        {
+          "id": "*-1500.0",
+          "name": "Up to $1.500",
+          "results": 14681
+        },
+        {
+          "id": "1500.0-3000.0",
+          "name": "$1.500 to $3.000",
+          "results": 21043
+        },
+        {
+          "id": "3000.0-*",
+          "name": "More than $3.000",
+          "results": 22864
+        }
+      ]
+    },
+    {
+      "id": "accepts_mercadopago",
+      "name": "MercadoPago filter",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "yes",
+          "name": "With MercadoPago",
+          "results": 58588
+        }
+      ]
+    },
+    {
+      "id": "installments",
+      "name": "Pago",
+      "type": "text",
+      "values": [
+        {
+          "id": "yes",
+          "name": "Installments",
+          "results": 58588
+        },
+        {
+          "id": "no_interest",
+          "name": "Sin interés",
+          "results": 8138
+        }
+      ]
+    },
+    {
+      "id": "shipping",
+      "name": "Envío",
+      "type": "text",
+      "values": [
+        {
+          "id": "mercadoenvios",
+          "name": "Mercado Envíos",
+          "results": 58468
+        },
+        {
+          "id": "fulfillment",
+          "name": "Full",
+          "results": 1183
+        }
+      ]
+    },
+    {
+      "id": "power_seller",
+      "name": "Seller quality filter",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "yes",
+          "name": "Best sellers",
+          "results": 31527
+        }
+      ]
+    },
+    {
+      "id": "since",
+      "name": "Auction start date filter",
+      "type": "text",
+      "values": [
+        {
+          "id": "today",
+          "name": "Publicados hoy",
+          "results": 192
+        }
+      ]
+    },
+    {
+      "id": "until",
+      "name": "Auction stop filter",
+      "type": "text",
+      "values": [
+        {
+          "id": "today",
+          "name": "Ending today",
+          "results": 60
+        }
+      ]
+    },
+    {
+      "id": "has_video",
+      "name": "Video publications filter",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "yes",
+          "name": "Publications with video",
+          "results": 3875
+        }
+      ]
+    },
+    {
+      "id": "has_pictures",
+      "name": "Items with images filter",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "yes",
+          "name": "With pictures",
+          "results": 58576
+        }
+      ]
+    },
+    {
+      "id": "shipping_cost",
+      "name": "Costo de envío",
+      "type": "text",
+      "values": [
+        {
+          "id": "free",
+          "name": "Gratis",
+          "results": 29615
+        }
+      ]
+    },
+    {
+      "id": "shipping_quarantine",
+      "name": "Envío",
+      "type": "text",
+      "values": [
+        {
+          "id": "guaranteed_delivery",
+          "name": "Envío con normalidad",
+          "results": 47536
+        }
+      ]
+    },
+    {
+      "id": "BACKPACK_CAPACITY",
+      "name": "Capacidad",
+      "type": "range",
+      "values": [
+        {
+          "id": "(*-13L)",
+          "name": "Menos de 13 L",
+          "results": 11208
+        },
+        {
+          "id": "[13L-19L)",
+          "name": "13 a 18 L",
+          "results": 9588
+        },
+        {
+          "id": "[19L-25.3L)",
+          "name": "19 a 24,3 L",
+          "results": 10896
+        },
+        {
+          "id": "[25.3L-*)",
+          "name": "25,3 L o más",
+          "results": 8436
+        }
+      ]
+    },
+    {
+      "id": "BACKPACK_MATERIAL",
+      "name": "Material",
+      "type": "STRING",
+      "values": [
+        {
+          "id": "466794",
+          "name": "Poliéster",
+          "results": 25224
+        },
+        {
+          "id": "2130490",
+          "name": "Lona",
+          "results": 2460
+        },
+        {
+          "id": "570721",
+          "name": "Cuero sintético",
+          "results": 1932
+        },
+        {
+          "id": "7980354",
+          "name": "Nailon",
+          "results": 1860
+        },
+        {
+          "id": "4836477",
+          "name": "Cordura",
+          "results": 1548
+        },
+        {
+          "id": "482783",
+          "name": "Cuero",
+          "results": 1092
+        },
+        {
+          "id": "4643865",
+          "name": "Sintético",
+          "results": 516
+        },
+        {
+          "id": "2697958",
+          "name": "PVC",
+          "results": 480
+        },
+        {
+          "id": "6029936",
+          "name": "Tela",
+          "results": 432
+        },
+        {
+          "id": "4840153",
+          "name": "PU",
+          "results": 408
+        },
+        {
+          "id": "3640532",
+          "name": "Neoprene",
+          "results": 336
+        },
+        {
+          "id": "4607331",
+          "name": "Poliéster/PVC",
+          "results": 312
+        },
+        {
+          "id": "2469707",
+          "name": "Tela",
+          "results": 264
+        },
+        {
+          "id": "4606543",
+          "name": "Textil",
+          "results": 252
+        },
+        {
+          "id": "7180115",
+          "name": "Impermeable",
+          "results": 228
+        },
+        {
+          "id": "3718192",
+          "name": "Polipropileno/Vinylon",
+          "results": 204
+        },
+        {
+          "id": "6489006",
+          "name": "Charol",
+          "results": 180
+        },
+        {
+          "id": "7206128",
+          "name": "Tela impermeable",
+          "results": 156
+        },
+        {
+          "id": "466793",
+          "name": "Algodón",
+          "results": 132
+        },
+        {
+          "id": "6550078",
+          "name": "Matelassé",
+          "results": 120
+        },
+        {
+          "id": "6197765",
+          "name": "Peluche",
+          "results": 120
+        },
+        {
+          "id": "508652",
+          "name": "Lentejuelas",
+          "results": 120
+        },
+        {
+          "id": "2190155",
+          "name": "Hilo",
+          "results": 120
+        },
+        {
+          "id": "6161746",
+          "name": "Cuero Vacuno",
+          "results": 108
+        },
+        {
+          "id": "462316",
+          "name": "Jean",
+          "results": 96
+        },
+        {
+          "id": "3804041",
+          "name": "Poliéster 600D",
+          "results": 96
+        },
+        {
+          "id": "2748302",
+          "name": "Plástico",
+          "results": 96
+        },
+        {
+          "id": "4723289",
+          "name": "Ripstop",
+          "results": 84
+        },
+        {
+          "id": "3630109",
+          "name": "Gabardina",
+          "results": 72
+        },
+        {
+          "id": "3568028",
+          "name": "Plush",
+          "results": 72
+        },
+        {
+          "id": "963582",
+          "name": "Símil neoprene",
+          "results": 60
+        },
+        {
+          "id": "7177324",
+          "name": "Canvas",
+          "results": 60
+        },
+        {
+          "id": "5659960",
+          "name": "Poliéster/Polietileno",
+          "results": 60
+        },
+        {
+          "id": "4790421",
+          "name": "Cordura/Cuero",
+          "results": 60
+        },
+        {
+          "id": "4377085",
+          "name": "Peluche",
+          "results": 60
+        },
+        {
+          "id": "3737162",
+          "name": "Símil cordura Deniers",
+          "results": 60
+        },
+        {
+          "id": "3629910",
+          "name": "Microfibra",
+          "results": 60
+        },
+        {
+          "id": "2441708",
+          "name": "Vinilo",
+          "results": 60
+        },
+        {
+          "id": "1258198",
+          "name": "Gamuza",
+          "results": 60
+        },
+        {
+          "id": "111551",
+          "name": "Poliuretano",
+          "results": 60
+        },
+        {
+          "id": "507452",
+          "name": "Felpa",
+          "results": 48
+        },
+        {
+          "id": "4790407",
+          "name": "Algodón/Poliéster",
+          "results": 48
+        },
+        {
+          "id": "4585645",
+          "name": "Cordura/Neoprene",
+          "results": 48
+        },
+        {
+          "id": "415875",
+          "name": "Peluche",
+          "results": 48
+        },
+        {
+          "id": "5567702",
+          "name": "PVC/Poliéster",
+          "results": 36
+        },
+        {
+          "id": "3580423",
+          "name": "Poliamida",
+          "results": 36
+        },
+        {
+          "id": "2395698",
+          "name": "Goma",
+          "results": 36
+        }
+      ]
+    },
+    {
+      "id": "BACKPACK_TYPE",
+      "name": "Tipo de mochila",
+      "type": "STRING",
+      "values": [
+        {
+          "id": "3968891",
+          "name": "Urbana",
+          "results": 23064
+        },
+        {
+          "id": "450700",
+          "name": "Escolar",
+          "results": 15912
+        },
+        {
+          "id": "432872",
+          "name": "Con Rueditas",
+          "results": 3240
+        },
+        {
+          "id": "450701",
+          "name": "Porta Notebook",
+          "results": 2724
+        },
+        {
+          "id": "5321854",
+          "name": "Deportivas",
+          "results": 588
+        },
+        {
+          "id": "3968888",
+          "name": "Viaje",
+          "results": 336
+        },
+        {
+          "id": "3968890",
+          "name": "Trekking",
+          "results": 240
+        },
+        {
+          "id": "4677066",
+          "name": "Con carro",
+          "results": 72
+        },
+        {
+          "id": "4683073",
+          "name": "Maternal",
+          "results": 60
+        }
+      ]
+    },
+    {
+      "id": "BRAND",
+      "name": "Marca",
+      "type": "STRING",
+      "values": [
+        {
+          "id": "428823",
+          "name": "Gremond",
+          "results": 2592
+        },
+        {
+          "id": "432864",
+          "name": "JanSport",
+          "results": 2556
+        },
+        {
+          "id": "4691784",
+          "name": "Cresko",
+          "results": 2340
+        },
+        {
+          "id": "2523237",
+          "name": "Wabro",
+          "results": 2004
+        },
+        {
+          "id": "33243",
+          "name": "Disney",
+          "results": 1812
+        },
+        {
+          "id": "2122893",
+          "name": "Footy",
+          "results": 1512
+        },
+        {
+          "id": "522406",
+          "name": "Kossok",
+          "results": 1488
+        },
+        {
+          "id": "24630",
+          "name": "Everlast",
+          "results": 1272
+        },
+        {
+          "id": "6141316",
+          "name": "LSYD",
+          "results": 1068
+        },
+        {
+          "id": "428821",
+          "name": "Samsonite",
+          "results": 864
+        },
+        {
+          "id": "2315543",
+          "name": "Trendy",
+          "results": 840
+        },
+        {
+          "id": "585295",
+          "name": "Xtrem",
+          "results": 708
+        },
+        {
+          "id": "2272585",
+          "name": "Simones",
+          "results": 624
+        },
+        {
+          "id": "4528680",
+          "name": "Givan",
+          "results": 576
+        },
+        {
+          "id": "428822",
+          "name": "Primicia",
+          "results": 540
+        },
+        {
+          "id": "510381",
+          "name": "Fjallraven",
+          "results": 516
+        },
+        {
+          "id": "16031",
+          "name": "Wilson",
+          "results": 504
+        },
+        {
+          "id": "55691",
+          "name": "Quiksilver",
+          "results": 492
+        },
+        {
+          "id": "498493",
+          "name": "47 Street",
+          "results": 480
+        },
+        {
+          "id": "1157003",
+          "name": "Barbie",
+          "results": 408
+        },
+        {
+          "id": "3199262",
+          "name": "Slazenger",
+          "results": 384
+        },
+        {
+          "id": "2315535",
+          "name": "Quaglia",
+          "results": 384
+        },
+        {
+          "id": "14810",
+          "name": "Adidas",
+          "results": 360
+        },
+        {
+          "id": "4403720",
+          "name": "Urbana",
+          "results": 336
+        },
+        {
+          "id": "93540",
+          "name": "Spirit",
+          "results": 312
+        },
+        {
+          "id": "23132",
+          "name": "Puma",
+          "results": 312
+        },
+        {
+          "id": "4315910",
+          "name": "Himawari",
+          "results": 300
+        },
+        {
+          "id": "2450125",
+          "name": "Chimola",
+          "results": 300
+        },
+        {
+          "id": "428836",
+          "name": "Elf",
+          "results": 288
+        },
+        {
+          "id": "433288",
+          "name": "Reef",
+          "results": 276
+        },
+        {
+          "id": "432852",
+          "name": "Skip Hop",
+          "results": 276
+        },
+        {
+          "id": "428824",
+          "name": "Delsey",
+          "results": 276
+        },
+        {
+          "id": "2786704",
+          "name": "Avengers",
+          "results": 276
+        },
+        {
+          "id": "415948",
+          "name": "Topper",
+          "results": 264
+        },
+        {
+          "id": "560300",
+          "name": "Boca Juniors",
+          "results": 252
+        },
+        {
+          "id": "510385",
+          "name": "Legion Extranjera",
+          "results": 252
+        },
+        {
+          "id": "14671",
+          "name": "Nike",
+          "results": 252
+        },
+        {
+          "id": "2421202",
+          "name": "Bubba",
+          "results": 240
+        },
+        {
+          "id": "510383",
+          "name": "Herschel Supply Co.",
+          "results": 216
+        },
+        {
+          "id": "276243",
+          "name": "Genérica",
+          "results": 216
+        },
+        {
+          "id": "2568713",
+          "name": "Herschel",
+          "results": 204
+        },
+        {
+          "id": "6066641",
+          "name": "Papelería Francesa",
+          "results": 192
+        },
+        {
+          "id": "5662716",
+          "name": "Mexma",
+          "results": 192
+        },
+        {
+          "id": "2786702",
+          "name": "Dragon Ball Z",
+          "results": 192
+        },
+        {
+          "id": "5567704",
+          "name": "Amayra",
+          "results": 180
+        },
+        {
+          "id": "491392",
+          "name": "Antonia Agosti",
+          "results": 180
+        },
+        {
+          "id": "3219549",
+          "name": "Bagcherry",
+          "results": 180
+        },
+        {
+          "id": "2786717",
+          "name": "Princesas",
+          "results": 180
+        },
+        {
+          "id": "515515",
+          "name": "JWorld",
+          "results": 168
+        },
+        {
+          "id": "4014177",
+          "name": "Vayate!",
+          "results": 168
+        },
+        {
+          "id": "2520641",
+          "name": "LOL",
+          "results": 168
+        },
+        {
+          "id": "6027152",
+          "name": "Skora",
+          "results": 156
+        },
+        {
+          "id": "5515976",
+          "name": "Backup Fun",
+          "results": 156
+        },
+        {
+          "id": "511135",
+          "name": "DC",
+          "results": 156
+        },
+        {
+          "id": "428843",
+          "name": "Rosenthal",
+          "results": 156
+        },
+        {
+          "id": "428831",
+          "name": "Boerss",
+          "results": 156
+        },
+        {
+          "id": "349830",
+          "name": "Fashion",
+          "results": 156
+        },
+        {
+          "id": "115400",
+          "name": "Roxy",
+          "results": 156
+        },
+        {
+          "id": "58625",
+          "name": "Caterpillar",
+          "results": 144
+        },
+        {
+          "id": "2786705",
+          "name": "Spiderman",
+          "results": 144
+        },
+        {
+          "id": "2748588",
+          "name": "XL Extra Large",
+          "results": 144
+        },
+        {
+          "id": "2507962",
+          "name": "Mooving",
+          "results": 144
+        },
+        {
+          "id": "2450129",
+          "name": "OC Sport",
+          "results": 144
+        },
+        {
+          "id": "154971",
+          "name": "Prüne",
+          "results": 144
+        },
+        {
+          "id": "8451",
+          "name": "Oakley",
+          "results": 132
+        },
+        {
+          "id": "2786711",
+          "name": "Monster High",
+          "results": 132
+        },
+        {
+          "id": "2786708",
+          "name": "Peppa Pig",
+          "results": 132
+        },
+        {
+          "id": "110427",
+          "name": "Montagne",
+          "results": 132
+        },
+        {
+          "id": "4607320",
+          "name": "ME",
+          "results": 120
+        },
+        {
+          "id": "428841",
+          "name": "Owen",
+          "results": 120
+        },
+        {
+          "id": "428834",
+          "name": "Chenson",
+          "results": 120
+        },
+        {
+          "id": "2318998",
+          "name": "Matriona",
+          "results": 120
+        },
+        {
+          "id": "518626",
+          "name": "Quechua",
+          "results": 108
+        },
+        {
+          "id": "428825",
+          "name": "Bossi",
+          "results": 108
+        },
+        {
+          "id": "3137646",
+          "name": "Tahg",
+          "results": 108
+        },
+        {
+          "id": "2357404",
+          "name": "Good Company",
+          "results": 108
+        },
+        {
+          "id": "23179",
+          "name": "Victoria's Secret",
+          "results": 108
+        },
+        {
+          "id": "119746",
+          "name": "National Geographic",
+          "results": 108
+        },
+        {
+          "id": "1186277",
+          "name": "LOL Surprise",
+          "results": 108
+        },
+        {
+          "id": "7363621",
+          "name": "Importadora LyT",
+          "results": 96
+        },
+        {
+          "id": "6794833",
+          "name": "Emoji",
+          "results": 96
+        },
+        {
+          "id": "5569840",
+          "name": "Zoobags",
+          "results": 96
+        },
+        {
+          "id": "510392",
+          "name": "Wagner",
+          "results": 96
+        },
+        {
+          "id": "4813604",
+          "name": "Biwo",
+          "results": 96
+        },
+        {
+          "id": "26680",
+          "name": "Rip Curl",
+          "results": 96
+        },
+        {
+          "id": "16235",
+          "name": "Case Logic",
+          "results": 96
+        },
+        {
+          "id": "432858",
+          "name": "Billabong",
+          "results": 84
+        },
+        {
+          "id": "428838",
+          "name": "Insider",
+          "results": 84
+        },
+        {
+          "id": "2786710",
+          "name": "Minions",
+          "results": 84
+        },
+        {
+          "id": "2685883",
+          "name": "Las Oreiro",
+          "results": 84
+        },
+        {
+          "id": "2555790",
+          "name": "Windwalker",
+          "results": 84
+        },
+        {
+          "id": "2507959",
+          "name": "Star Wars",
+          "results": 84
+        },
+        {
+          "id": "243483",
+          "name": "Fila",
+          "results": 84
+        },
+        {
+          "id": "2332603",
+          "name": "Uzzi",
+          "results": 84
+        },
+        {
+          "id": "5903436",
+          "name": "Mi-pac",
+          "results": 72
+        },
+        {
+          "id": "512352",
+          "name": "Alpine Skate",
+          "results": 72
+        },
+        {
+          "id": "471638",
+          "name": "Juanita Jo",
+          "results": 72
+        },
+        {
+          "id": "4585640",
+          "name": "Big Pocket",
+          "results": 72
+        },
+        {
+          "id": "4585637",
+          "name": "Arte",
+          "results": 72
+        },
+        {
+          "id": "4320477",
+          "name": "ZÖM",
+          "results": 72
+        },
+        {
+          "id": "428844",
+          "name": "Stone",
+          "results": 72
+        },
+        {
+          "id": "428839",
+          "name": "Karpatos",
+          "results": 72
+        },
+        {
+          "id": "428830",
+          "name": "Blaquè",
+          "results": 72
+        },
+        {
+          "id": "415950",
+          "name": "Under Armour",
+          "results": 72
+        },
+        {
+          "id": "3732434",
+          "name": "Deco Estrella",
+          "results": 72
+        },
+        {
+          "id": "3037463",
+          "name": "River Plate",
+          "results": 72
+        },
+        {
+          "id": "2357430",
+          "name": "Seki Masami",
+          "results": 72
+        },
+        {
+          "id": "131856",
+          "name": "Marvel",
+          "results": 72
+        },
+        {
+          "id": "5825330",
+          "name": "Zimith",
+          "results": 60
+        },
+        {
+          "id": "5821385",
+          "name": "Trip Store",
+          "results": 60
+        },
+        {
+          "id": "560325",
+          "name": "Motor Oil",
+          "results": 60
+        },
+        {
+          "id": "5235904",
+          "name": "Adventure",
+          "results": 60
+        },
+        {
+          "id": "5181321",
+          "name": "Open Sports",
+          "results": 60
+        },
+        {
+          "id": "5125448",
+          "name": "Mimiss",
+          "results": 60
+        },
+        {
+          "id": "462300",
+          "name": "The North Face",
+          "results": 60
+        },
+        {
+          "id": "462299",
+          "name": "Salomon",
+          "results": 60
+        },
+        {
+          "id": "4619428",
+          "name": "FW",
+          "results": 60
+        },
+        {
+          "id": "428846",
+          "name": "Tropea",
+          "results": 60
+        },
+        {
+          "id": "415949",
+          "name": "Umbro",
+          "results": 60
+        },
+        {
+          "id": "3646862",
+          "name": "One West",
+          "results": 60
+        },
+        {
+          "id": "3516750",
+          "name": "Rowa",
+          "results": 60
+        },
+        {
+          "id": "3314392",
+          "name": "Nacional",
+          "results": 60
+        },
+        {
+          "id": "3069379",
+          "name": "Ranwey",
+          "results": 60
+        },
+        {
+          "id": "2786714",
+          "name": "Angry Birds",
+          "results": 60
+        },
+        {
+          "id": "2705514",
+          "name": "Violetta",
+          "results": 60
+        },
+        {
+          "id": "2657097",
+          "name": "Athix",
+          "results": 60
+        },
+        {
+          "id": "252895",
+          "name": "Bross",
+          "results": 60
+        },
+        {
+          "id": "2272601",
+          "name": "Me International",
+          "results": 60
+        },
+        {
+          "id": "2214986",
+          "name": "Adidas Originals",
+          "results": 60
+        },
+        {
+          "id": "122562",
+          "name": "Discovery",
+          "results": 60
+        },
+        {
+          "id": "100583",
+          "name": "Love",
+          "results": 60
+        },
+        {
+          "id": "9188",
+          "name": "Reebok",
+          "results": 48
+        },
+        {
+          "id": "764388",
+          "name": "Faydi",
+          "results": 48
+        },
+        {
+          "id": "68762",
+          "name": "Lamborghini",
+          "results": 48
+        },
+        {
+          "id": "6534798",
+          "name": "Unicross",
+          "results": 48
+        },
+        {
+          "id": "59387",
+          "name": "Xiaomi",
+          "results": 48
+        },
+        {
+          "id": "560339",
+          "name": "Travel Tech",
+          "results": 48
+        },
+        {
+          "id": "5601529",
+          "name": "Zharo",
+          "results": 48
+        },
+        {
+          "id": "5252843",
+          "name": "Make",
+          "results": 48
+        },
+        {
+          "id": "508648",
+          "name": "Isadora",
+          "results": 48
+        },
+        {
+          "id": "498496",
+          "name": "Muaa",
+          "results": 48
+        },
+        {
+          "id": "492301",
+          "name": "Ugo Santini",
+          "results": 48
+        },
+        {
+          "id": "4889511",
+          "name": "Mocheella",
+          "results": 48
+        },
+        {
+          "id": "4697568",
+          "name": "Elementi",
+          "results": 48
+        },
+        {
+          "id": "4403709",
+          "name": "Independiente",
+          "results": 48
+        },
+        {
+          "id": "433681",
+          "name": "Amphora",
+          "results": 48
+        },
+        {
+          "id": "432866",
+          "name": "Ogio",
+          "results": 48
+        },
+        {
+          "id": "428845",
+          "name": "Transit",
+          "results": 48
+        },
+        {
+          "id": "2804265",
+          "name": "SM",
+          "results": 48
+        },
+        {
+          "id": "2786597",
+          "name": "Kio",
+          "results": 48
+        },
+        {
+          "id": "2748568",
+          "name": "Leblu",
+          "results": 48
+        },
+        {
+          "id": "2529297",
+          "name": "Olympia",
+          "results": 48
+        },
+        {
+          "id": "24555",
+          "name": "Pierre Cardin",
+          "results": 48
+        },
+        {
+          "id": "2319005",
+          "name": "Neutra",
+          "results": 48
+        },
+        {
+          "id": "2315540",
+          "name": "Squash",
+          "results": 48
+        },
+        {
+          "id": "2290483",
+          "name": "Swissbrand",
+          "results": 48
+        },
+        {
+          "id": "157408",
+          "name": "Nixon",
+          "results": 48
+        },
+        {
+          "id": "15256",
+          "name": "Fisher-Price",
+          "results": 48
+        },
+        {
+          "id": "1146503",
+          "name": "Ushuaia",
+          "results": 48
+        },
+        {
+          "id": "110690",
+          "name": "Thule",
+          "results": 48
+        },
+        {
+          "id": "975785",
+          "name": "Pampero",
+          "results": 36
+        },
+        {
+          "id": "944529",
+          "name": "Swissgear",
+          "results": 36
+        },
+        {
+          "id": "9269",
+          "name": "Dunlop",
+          "results": 36
+        },
+        {
+          "id": "7358787",
+          "name": "Sportpark",
+          "results": 36
+        },
+        {
+          "id": "585285",
+          "name": "Dakine",
+          "results": 36
+        },
+        {
+          "id": "5498331",
+          "name": "MTV",
+          "results": 36
+        },
+        {
+          "id": "5393023",
+          "name": "Wave",
+          "results": 36
+        },
+        {
+          "id": "515513",
+          "name": "High Sierra",
+          "results": 36
+        },
+        {
+          "id": "4757357",
+          "name": "Trendy Dogs",
+          "results": 36
+        },
+        {
+          "id": "4446522",
+          "name": "Rivadavia",
+          "results": 36
+        },
+        {
+          "id": "4417947",
+          "name": "Sport",
+          "results": 36
+        },
+        {
+          "id": "433290",
+          "name": "Rusty",
+          "results": 36
+        },
+        {
+          "id": "428833",
+          "name": "Burton",
+          "results": 36
+        },
+        {
+          "id": "428828",
+          "name": "Verage",
+          "results": 36
+        },
+        {
+          "id": "42727",
+          "name": "Columbia",
+          "results": 36
+        },
+        {
+          "id": "41939",
+          "name": "Easy",
+          "results": 36
+        },
+        {
+          "id": "3796369",
+          "name": "Romeas",
+          "results": 36
+        },
+        {
+          "id": "3755699",
+          "name": "Eagle Claw",
+          "results": 36
+        },
+        {
+          "id": "3680193",
+          "name": "Phi Phi Toys",
+          "results": 36
+        },
+        {
+          "id": "3516748",
+          "name": "Peyton",
+          "results": 36
+        },
+        {
+          "id": "343642",
+          "name": "New Balance",
+          "results": 36
+        },
+        {
+          "id": "332224",
+          "name": "DC Shoes",
+          "results": 36
+        },
+        {
+          "id": "2634319",
+          "name": "Rerda",
+          "results": 36
+        },
+        {
+          "id": "252310",
+          "name": "Converse",
+          "results": 36
+        },
+        {
+          "id": "2510628",
+          "name": "Spica",
+          "results": 36
+        },
+        {
+          "id": "2315508",
+          "name": "Barbara Bags",
+          "results": 36
+        },
+        {
+          "id": "15722",
+          "name": "Universal",
+          "results": 36
+        },
+        {
+          "id": "124578",
+          "name": "Vans",
+          "results": 36
+        }
+      ]
+    },
+    {
+      "id": "ITEM_CONDITION",
+      "name": "Condición",
+      "type": "STRING",
+      "values": [
+        {
+          "id": "2230284",
+          "name": "Nuevo",
+          "results": 55752
+        },
+        {
+          "id": "2230581",
+          "name": "Usado",
+          "results": 3840
+        }
+      ]
+    },
+    {
+      "id": "MAIN_COLOR",
+      "name": "Color principal",
+      "type": "list",
+      "values": [
+        {
+          "id": "2450295",
+          "name": "Negro",
+          "results": 17340
+        },
+        {
+          "id": "2450293",
+          "name": "Azul",
+          "results": 7812
+        },
+        {
+          "id": "2450307",
+          "name": "Rojo",
+          "results": 5244
+        },
+        {
+          "id": "2450312",
+          "name": "Rosa",
+          "results": 4464
+        },
+        {
+          "id": "2450294",
+          "name": "Gris",
+          "results": 3120
+        },
+        {
+          "id": "2450311",
+          "name": "Violeta",
+          "results": 2736
+        },
+        {
+          "id": "2450326",
+          "name": "Fucsia",
+          "results": 2388
+        },
+        {
+          "id": "2450314",
+          "name": "Verde",
+          "results": 2172
+        },
+        {
+          "id": "2450278",
+          "name": "Celeste",
+          "results": 1908
+        },
+        {
+          "id": "2450299",
+          "name": "Gris oscuro",
+          "results": 1884
+        },
+        {
+          "id": "2450291",
+          "name": "Marrón",
+          "results": 1500
+        },
+        {
+          "id": "2450308",
+          "name": "Blanco",
+          "results": 1428
+        },
+        {
+          "id": "2450322",
+          "name": "Bordó",
+          "results": 1152
+        },
+        {
+          "id": "2450325",
+          "name": "Azul marino",
+          "results": 1020
+        },
+        {
+          "id": "2450280",
+          "name": "Rosa claro",
+          "results": 984
+        },
+        {
+          "id": "2450310",
+          "name": "Verde musgo",
+          "results": 924
+        },
+        {
+          "id": "2450284",
+          "name": "Rosa chicle",
+          "results": 912
+        },
+        {
+          "id": "2450296",
+          "name": "Amarillo",
+          "results": 888
+        },
+        {
+          "id": "2450303",
+          "name": "Plateado",
+          "results": 804
+        },
+        {
+          "id": "2450327",
+          "name": "Naranja",
+          "results": 792
+        },
+        {
+          "id": "2450306",
+          "name": "Azul oscuro",
+          "results": 780
+        },
+        {
+          "id": "2450281",
+          "name": "Beige",
+          "results": 672
+        },
+        {
+          "id": "2450324",
+          "name": "Verde oscuro",
+          "results": 600
+        },
+        {
+          "id": "2450321",
+          "name": "Lila",
+          "results": 576
+        },
+        {
+          "id": "2450319",
+          "name": "Verde claro",
+          "results": 444
+        },
+        {
+          "id": "2450320",
+          "name": "Turquesa",
+          "results": 396
+        },
+        {
+          "id": "2450292",
+          "name": "Marrón claro",
+          "results": 372
+        },
+        {
+          "id": "2450302",
+          "name": "Azul acero",
+          "results": 336
+        },
+        {
+          "id": "2450286",
+          "name": "Nude",
+          "results": 276
+        },
+        {
+          "id": "2450318",
+          "name": "Coral",
+          "results": 264
+        },
+        {
+          "id": "2450289",
+          "name": "Dorado",
+          "results": 252
+        },
+        {
+          "id": "2450298",
+          "name": "Azul claro",
+          "results": 204
+        },
+        {
+          "id": "2450279",
+          "name": "Índigo",
+          "results": 204
+        },
+        {
+          "id": "2450288",
+          "name": "Azul petróleo",
+          "results": 192
+        },
+        {
+          "id": "2450290",
+          "name": "Violeta oscuro",
+          "results": 180
+        },
+        {
+          "id": "2450285",
+          "name": "Rosa oscuro",
+          "results": 156
+        },
+        {
+          "id": "2450283",
+          "name": "Agua",
+          "results": 156
+        },
+        {
+          "id": "2450300",
+          "name": "Crema",
+          "results": 144
+        },
+        {
+          "id": "2450297",
+          "name": "Marrón oscuro",
+          "results": 144
+        },
+        {
+          "id": "2450287",
+          "name": "Suela",
+          "results": 144
+        },
+        {
+          "id": "2450317",
+          "name": "Terracota",
+          "results": 132
+        },
+        {
+          "id": "2450313",
+          "name": "Coral claro",
+          "results": 108
+        },
+        {
+          "id": "2450328",
+          "name": "Naranja oscuro",
+          "results": 96
+        },
+        {
+          "id": "2450305",
+          "name": "Verde limón",
+          "results": 96
+        },
+        {
+          "id": "2450304",
+          "name": "Ocre",
+          "results": 96
+        },
+        {
+          "id": "2450323",
+          "name": "Naranja claro",
+          "results": 72
+        },
+        {
+          "id": "2450309",
+          "name": "Dorado oscuro",
+          "results": 72
+        },
+        {
+          "id": "2450316",
+          "name": "Lavanda",
+          "results": 60
+        },
+        {
+          "id": "2450301",
+          "name": "Caqui",
+          "results": 36
+        }
+      ]
+    }
+  ]
+}

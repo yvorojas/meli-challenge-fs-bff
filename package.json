@@ -3,13 +3,39 @@
   "version": "1.0.0",
   "description": "challenge for fullstack, bff part",
   "main": "index.js",
+  "jest": {
+    "testEnvironment": "node",
+    "collectCoverageFrom": [
+      "src/**/*.{js,jsx}",
+      "!src/index.js",
+      "!src/infrastructure/**/*.js",
+      "!src/infrastructure/*.js",
+      "!src/gateways/controllers/**/*.js",
+      "!src/gateways/controllers/*.js",
+      "!src/gateways/interfaces/**/*.js",
+      "!src/gateways/interfaces/*.js",
+      "!src/application/useCases/items/index.js",
+      "!src/application/interfaces/**/*.js",
+      "!src/application/interfaces/*.js"
+    ],
+    "coverageThreshold": {
+      "global": {
+        "branches": 85,
+        "functions": 85,
+        "lines": 85,
+        "statements": 85
+      }
+    }
+  },
   "scripts": {
     "build": "npm-run-all clean transpile",
     "transpile": "babel src --out-dir build --source-maps",
     "server": "node  -r dotenv/config ./build",
     "dev": "NODE_ENV=development npm-run-all build server",
     "clean": "rimraf build",
-    "watch:dev": "nodemon"
+    "watch:dev": "nodemon",
+    "coverage": "jest --coverage",
+    "test": "jest . --watch"
   },
   "repository": "git@github.com:yvorojas/meli-challenge-fs-bff.git",
   "author": "Yvo Rojas Valdes <yvo.rojas.valdes@gmail.com>",

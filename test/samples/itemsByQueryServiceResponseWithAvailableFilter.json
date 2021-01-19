@@ -1,0 +1,1019 @@
+{
+  "site_id": "MLA",
+  "query": "rest",
+  "paging": {
+    "total": 84,
+    "offset": 0,
+    "limit": 4,
+    "primary_results": 77
+  },
+  "results": [
+    {
+      "id": "MLA818325858",
+      "site_id": "MLA",
+      "title": "Rest Avalon Classic Std Para Arco Recurvo Profesional X1",
+      "seller": {
+        "id": 16149652,
+        "permalink": "http://perfil.mercadolibre.com.ar/ARQUERIASHOP",
+        "registration_date": "2003-01-20T00:00:00.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "normal",
+          "user_info_verified",
+          "credits_priority_4",
+          "credits_profile",
+          "eshop",
+          "mshops",
+          "messages_as_seller",
+          "messages_as_buyer"
+        ],
+        "eshop": {
+          "nick_name": "ARQUERIASHOP",
+          "eshop_rubro": null,
+          "eshop_id": 323013,
+          "eshop_locations": [],
+          "site_id": "MLA",
+          "eshop_logo_url": "http://resources.mlstatic.com/eshops/16149652v2937b2.png",
+          "eshop_status_id": 1,
+          "seller": 16149652,
+          "eshop_experience": 0
+        },
+        "seller_reputation": {
+          "transactions": {
+            "total": 1467,
+            "canceled": 45,
+            "period": "historic",
+            "ratings": {
+              "negative": 0,
+              "positive": 1,
+              "neutral": 0
+            },
+            "completed": 1422
+          },
+          "power_seller_status": "platinum",
+          "metrics": {
+            "claims": {
+              "rate": 0.0037,
+              "value": 3,
+              "period": "3 months"
+            },
+            "delayed_handling_time": {
+              "rate": 0.0027,
+              "value": 2,
+              "period": "3 months"
+            },
+            "sales": {
+              "period": "3 months",
+              "completed": 768
+            },
+            "cancellations": {
+              "rate": 0,
+              "value": 0,
+              "period": "3 months"
+            }
+          },
+          "level_id": "5_green"
+        }
+      },
+      "price": 2512.15,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 5,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2039-09-30T04:00:00.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-818325858-rest-avalon-classic-std-para-arco-recurvo-profesional-x1-_JM",
+      "thumbnail": "http://mla-s1-p.mlstatic.com/619542-MLA40904158400_022020-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 356.24,
+        "rate": 70.17,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQkZMTzg5MjFa",
+        "city_name": "Floresta"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "mode": "me2",
+        "tags": ["self_service_out", "mandatory_free_shipping"],
+        "logistic_type": "xd_drop_off",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQkZMTzg5MjFa",
+          "name": "Floresta"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "name": "Marca",
+          "source": 3376461333454861,
+          "values": [
+            {
+              "id": "2510799",
+              "name": "Avalon",
+              "struct": null,
+              "source": 3376461333454861
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "id": "BRAND",
+          "value_id": "2510799",
+          "value_name": "Avalon",
+          "value_struct": null
+        },
+        {
+          "name": "Condición del ítem",
+          "attribute_group_id": "OTHERS",
+          "source": 8342579661593500,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 8342579661593500
+            }
+          ],
+          "attribute_group_name": "Otros",
+          "id": "ITEM_CONDITION",
+          "value_id": "2230284",
+          "value_name": "Nuevo",
+          "value_struct": null
+        },
+        {
+          "id": "MODEL",
+          "value_struct": null,
+          "values": [
+            {
+              "source": 3376461333454861,
+              "id": null,
+              "name": "CLASSIC STD",
+              "struct": null
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "source": 3376461333454861,
+          "name": "Modelo",
+          "value_id": null,
+          "value_name": "CLASSIC STD"
+        }
+      ],
+      "original_price": null,
+      "category_id": "MLA79224",
+      "official_store_id": null,
+      "domain_id": "MLA-CAMPING_AND_FISHING_EQUIPMENT",
+      "catalog_product_id": null,
+      "tags": [
+        "brand_verified",
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed"
+      ]
+    },
+    {
+      "id": "MLA801673180",
+      "site_id": "MLA",
+      "title": "Rest Magnético Descanso Para Flecha Arqueria Jandao",
+      "seller": {
+        "id": 134927136,
+        "permalink": "http://perfil.mercadolibre.com.ar/DALE-COMPRAR",
+        "registration_date": "2013-03-14T10:20:27.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "normal",
+          "user_info_verified",
+          "credits_profile",
+          "eshop",
+          "mshops",
+          "messages_as_seller",
+          "messages_as_buyer"
+        ],
+        "eshop": {
+          "nick_name": "DALE-COMPRAR",
+          "eshop_rubro": null,
+          "eshop_id": 369918,
+          "eshop_locations": [],
+          "site_id": "MLA",
+          "eshop_logo_url": "http://resources.mlstatic.com/eshops/134927136v909098.png",
+          "eshop_status_id": 1,
+          "seller": 134927136,
+          "eshop_experience": 0
+        },
+        "seller_reputation": {
+          "transactions": {
+            "total": 3379,
+            "canceled": 139,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.01,
+              "positive": 0.99,
+              "neutral": 0
+            },
+            "completed": 3240
+          },
+          "power_seller_status": "platinum",
+          "metrics": {
+            "claims": {
+              "rate": 0.0056,
+              "value": 14,
+              "period": "3 months"
+            },
+            "delayed_handling_time": {
+              "rate": 0.0004,
+              "value": 1,
+              "period": "3 months"
+            },
+            "sales": {
+              "period": "3 months",
+              "completed": 2403
+            },
+            "cancellations": {
+              "rate": 0.0032,
+              "value": 8,
+              "period": "3 months"
+            }
+          },
+          "level_id": "5_green"
+        }
+      },
+      "price": 649,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 5,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2039-07-14T04:00:00.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-801673180-rest-magnetico-descanso-para-flecha-arqueria-jandao-_JM",
+      "thumbnail": "http://mla-s1-p.mlstatic.com/864524-MLA31499804596_072019-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 92.03,
+        "rate": 70.17,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQk1PTjUxOTJa",
+        "city_name": "Monserrat"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": ["self_service_in"],
+        "logistic_type": "xd_drop_off",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQk1PTjUxOTJa",
+          "name": "Monserrat"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "value_name": "Jandao",
+          "value_struct": null,
+          "values": [
+            {
+              "name": "Jandao",
+              "struct": null,
+              "source": 8342579661593500,
+              "id": "4016172"
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "source": 8342579661593500,
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": "4016172",
+          "attribute_group_name": "Otros"
+        },
+        {
+          "attribute_group_name": "Otros",
+          "name": "Condición del ítem",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 8342579661593500
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "id": "ITEM_CONDITION",
+          "value_id": "2230284",
+          "value_name": "Nuevo",
+          "source": 8342579661593500
+        },
+        {
+          "value_id": null,
+          "value_struct": null,
+          "id": "MODEL",
+          "name": "Modelo",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "source": 8342579661593500,
+          "value_name": "Arrow Rest",
+          "values": [
+            {
+              "id": null,
+              "name": "Arrow Rest",
+              "struct": null,
+              "source": 8342579661593500
+            }
+          ]
+        }
+      ],
+      "original_price": null,
+      "category_id": "MLA79224",
+      "official_store_id": null,
+      "domain_id": "MLA-CAMPING_AND_FISHING_EQUIPMENT",
+      "catalog_product_id": null,
+      "tags": [
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "brand_verified",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed"
+      ]
+    },
+    {
+      "id": "MLA805734802",
+      "site_id": "MLA",
+      "title": "Rest Magnetico Autoadhesivo Premium Marca Avalon",
+      "seller": {
+        "id": 16149652,
+        "permalink": "http://perfil.mercadolibre.com.ar/ARQUERIASHOP",
+        "registration_date": "2003-01-20T00:00:00.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "normal",
+          "user_info_verified",
+          "credits_priority_4",
+          "credits_profile",
+          "eshop",
+          "mshops",
+          "messages_as_seller",
+          "messages_as_buyer"
+        ],
+        "eshop": {
+          "nick_name": "ARQUERIASHOP",
+          "eshop_rubro": null,
+          "eshop_id": 323013,
+          "eshop_locations": [],
+          "site_id": "MLA",
+          "eshop_logo_url": "http://resources.mlstatic.com/eshops/16149652v2937b2.png",
+          "eshop_status_id": 1,
+          "seller": 16149652,
+          "eshop_experience": 0
+        },
+        "seller_reputation": {
+          "transactions": {
+            "total": 1467,
+            "canceled": 45,
+            "period": "historic",
+            "ratings": {
+              "negative": 0,
+              "positive": 1,
+              "neutral": 0
+            },
+            "completed": 1422
+          },
+          "power_seller_status": "platinum",
+          "metrics": {
+            "claims": {
+              "rate": 0.0037,
+              "value": 3,
+              "period": "3 months"
+            },
+            "delayed_handling_time": {
+              "rate": 0.0027,
+              "value": 2,
+              "period": "3 months"
+            },
+            "sales": {
+              "period": "3 months",
+              "completed": 768
+            },
+            "cancellations": {
+              "rate": 0,
+              "value": 0,
+              "period": "3 months"
+            }
+          },
+          "level_id": "5_green"
+        }
+      },
+      "price": 1870.75,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 4,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2039-07-30T04:00:00.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-805734802-rest-magnetico-autoadhesivo-premium-marca-avalon-_JM",
+      "thumbnail": "http://mla-s1-p.mlstatic.com/651866-MLA31685404884_082019-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 265.29,
+        "rate": 70.17,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQkZMTzg5MjFa",
+        "city_name": "Floresta"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2",
+        "tags": ["self_service_in"],
+        "logistic_type": "xd_drop_off",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQkZMTzg5MjFa",
+          "name": "Floresta"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "value_id": "2510799",
+          "attribute_group_name": "Otros",
+          "source": 3570163010178927,
+          "attribute_group_id": "OTHERS",
+          "name": "Marca",
+          "value_name": "Avalon",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2510799",
+              "name": "Avalon",
+              "struct": null,
+              "source": 3570163010178927
+            }
+          ]
+        },
+        {
+          "value_name": "Nuevo",
+          "attribute_group_id": "OTHERS",
+          "source": 3570163010178927,
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230284",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 3570163010178927
+            }
+          ],
+          "attribute_group_name": "Otros"
+        },
+        {
+          "value_name": "CLASSIC AXIS",
+          "values": [
+            {
+              "struct": null,
+              "source": 3570163010178927,
+              "id": null,
+              "name": "CLASSIC AXIS"
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "source": 3570163010178927,
+          "value_id": null,
+          "name": "Modelo",
+          "value_struct": null,
+          "id": "MODEL"
+        }
+      ],
+      "original_price": null,
+      "category_id": "MLA79224",
+      "official_store_id": null,
+      "domain_id": "MLA-CAMPING_AND_FISHING_EQUIPMENT",
+      "catalog_product_id": null,
+      "tags": [
+        "brand_verified",
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed"
+      ]
+    },
+    {
+      "id": "MLA810294857",
+      "site_id": "MLA",
+      "title": "Rest Biscuit Negro Ambidiestro Para Arco Compuesto Flechas Arqueria",
+      "seller": {
+        "id": 93704712,
+        "permalink": "http://perfil.mercadolibre.com.ar/PROYECTO---MER",
+        "registration_date": "2006-05-03T14:40:25.000-04:00",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+          "normal",
+          "user_info_verified",
+          "credits_priority_4",
+          "eshop",
+          "mshops",
+          "credits_profile",
+          "messages_as_seller",
+          "messages_as_buyer"
+        ],
+        "eshop": {
+          "nick_name": "PROYECTO---MER",
+          "eshop_rubro": null,
+          "eshop_id": 37937,
+          "eshop_locations": [],
+          "site_id": "MLA",
+          "eshop_logo_url": "http://resources.mlstatic.com/eshops/93704712va1373f.png",
+          "eshop_status_id": 1,
+          "seller": 93704712,
+          "eshop_experience": 0
+        },
+        "seller_reputation": {
+          "transactions": {
+            "total": 4462,
+            "canceled": 215,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.01,
+              "positive": 0.98,
+              "neutral": 0.01
+            },
+            "completed": 4247
+          },
+          "power_seller_status": "platinum",
+          "metrics": {
+            "claims": {
+              "rate": 0.0079,
+              "value": 10,
+              "period": "3 months"
+            },
+            "delayed_handling_time": {
+              "rate": 0.0047,
+              "value": 5,
+              "period": "3 months"
+            },
+            "sales": {
+              "period": "3 months",
+              "completed": 1201
+            },
+            "cancellations": {
+              "rate": 0.0023,
+              "value": 3,
+              "period": "3 months"
+            }
+          },
+          "level_id": "5_green"
+        }
+      },
+      "price": 2999.99,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 5,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2039-08-15T04:00:00.000Z",
+      "condition": "new",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-810294857-rest-biscuit-negro-ambidiestro-para-arco-compuesto-flechas-arqueria-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/995112-MLA31896725487_082019-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 12,
+        "amount": 425.42,
+        "rate": 70.17,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": null,
+        "city_name": "Caba"
+      },
+      "shipping": {
+        "free_shipping": true,
+        "mode": "me2",
+        "tags": [
+          "fs_removed_by_tagger",
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "logistic_type": "xd_drop_off",
+        "store_pick_up": false
+      },
+      "seller_address": {
+        "id": "",
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": null,
+          "name": "Caba"
+        },
+        "latitude": "",
+        "longitude": ""
+      },
+      "attributes": [
+        {
+          "value_name": "Topoint",
+          "value_struct": null,
+          "values": [
+            {
+              "struct": null,
+              "source": 3570163010178927,
+              "id": null,
+              "name": "Topoint"
+            }
+          ],
+          "attribute_group_name": "Otros",
+          "source": 3570163010178927,
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": null,
+          "attribute_group_id": "OTHERS"
+        },
+        {
+          "value_name": "Nuevo",
+          "values": [
+            {
+              "name": "Nuevo",
+              "struct": null,
+              "source": 3570163010178927,
+              "id": "2230284"
+            }
+          ],
+          "attribute_group_id": "OTHERS",
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230284",
+          "value_struct": null,
+          "attribute_group_name": "Otros",
+          "source": 3570163010178927
+        },
+        {
+          "id": "MODEL",
+          "value_id": null,
+          "values": [
+            {
+              "source": 3570163010178927,
+              "id": null,
+              "name": "1000",
+              "struct": null
+            }
+          ],
+          "attribute_group_name": "Otros",
+          "name": "Modelo",
+          "value_name": "1000",
+          "value_struct": null,
+          "attribute_group_id": "OTHERS",
+          "source": 3570163010178927
+        }
+      ],
+      "original_price": null,
+      "category_id": "MLA79224",
+      "official_store_id": null,
+      "domain_id": "MLA-CAMPING_AND_FISHING_EQUIPMENT",
+      "catalog_product_id": null,
+      "tags": [
+        "good_quality_thumbnail",
+        "loyalty_discount_eligible",
+        "brand_verified",
+        "good_quality_picture",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed"
+      ]
+    }
+  ],
+  "secondary_results": [],
+  "related_results": [],
+  "sort": {
+    "id": "relevance",
+    "name": "More relevant"
+  },
+  "available_sorts": [
+    {
+      "id": "price_asc",
+      "name": "Lower price"
+    },
+    {
+      "id": "price_desc",
+      "name": "Higher price"
+    }
+  ],
+  "filters": [
+    {
+      "id": "category",
+      "name": "Categories",
+      "type": "text",
+      "values": [
+        {
+          "id": "MLA47778",
+          "name": "Arco y Flecha",
+          "path_from_root": [
+            {
+              "id": "MLA1276",
+              "name": "Deportes y Fitness"
+            },
+            {
+              "id": "MLA1362",
+              "name": "Camping, Caza y Pesca"
+            },
+            {
+              "id": "MLA12199",
+              "name": "Artículos para Caza"
+            },
+            {
+              "id": "MLA47778",
+              "name": "Arco y Flecha"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "available_filters": [
+    {
+      "id": "category",
+      "name": "Categories",
+      "type": "text",
+      "values": [
+        {
+          "id": "MLA79236",
+          "name": "Arcos",
+          "results": 4
+        },
+        {
+          "id": "MLA79237",
+          "name": "Flechas",
+          "results": 2
+        },
+        {
+          "id": "MLA79224",
+          "name": "Otros",
+          "results": 78
+        }
+      ]
+    },
+    {
+      "id": "state",
+      "name": "Location",
+      "type": "text",
+      "values": [
+        {
+          "id": "TUxBUFpPTmFpbnRl",
+          "name": "Buenos Aires Interior",
+          "results": 40
+        },
+        {
+          "id": "TUxBUENBUGw3M2E1",
+          "name": "Capital Federal",
+          "results": 22
+        },
+        {
+          "id": "TUxBUEdSQWU4ZDkz",
+          "name": "Bs.As. G.B.A. Norte",
+          "results": 11
+        },
+        {
+          "id": "TUxBUEdSQWVmNTVm",
+          "name": "Bs.As. G.B.A. Oeste",
+          "results": 3
+        },
+        {
+          "id": "TUxBUEdSQXJlMDNm",
+          "name": "Bs.As. G.B.A. Sur",
+          "results": 3
+        },
+        {
+          "id": "TUxBUENPUmFkZGIw",
+          "name": "Córdoba",
+          "results": 2
+        },
+        {
+          "id": "TUxBUENPU2ExMmFkMw",
+          "name": "Bs.As. Costa Atlántica",
+          "results": 1
+        },
+        {
+          "id": "TUxBUFNBTmU5Nzk2",
+          "name": "Santa Fe",
+          "results": 1
+        },
+        {
+          "id": "TUxBUFNBTnM0ZTcz",
+          "name": "San Luis",
+          "results": 1
+        }
+      ]
+    },
+    {
+      "id": "price",
+      "name": "Precio",
+      "type": "range",
+      "values": [
+        {
+          "id": "*-1000.0",
+          "name": "Up to $1.000",
+          "results": 27
+        },
+        {
+          "id": "1000.0-3500.0",
+          "name": "$1.000 to $3.500",
+          "results": 28
+        },
+        {
+          "id": "3500.0-*",
+          "name": "More than $3.500",
+          "results": 29
+        }
+      ]
+    },
+    {
+      "id": "accepts_mercadopago",
+      "name": "MercadoPago filter",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "yes",
+          "name": "With MercadoPago",
+          "results": 84
+        }
+      ]
+    },
+    {
+      "id": "installments",
+      "name": "Pago",
+      "type": "text",
+      "values": [
+        {
+          "id": "yes",
+          "name": "Installments",
+          "results": 84
+        },
+        {
+          "id": "no_interest",
+          "name": "Sin interés",
+          "results": 1
+        }
+      ]
+    },
+    {
+      "id": "shipping",
+      "name": "Envío",
+      "type": "text",
+      "values": [
+        {
+          "id": "mercadoenvios",
+          "name": "Mercado Envíos",
+          "results": 79
+        }
+      ]
+    },
+    {
+      "id": "power_seller",
+      "name": "Seller quality filter",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "yes",
+          "name": "Best sellers",
+          "results": 72
+        }
+      ]
+    },
+    {
+      "id": "has_pictures",
+      "name": "Items with images filter",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "yes",
+          "name": "With pictures",
+          "results": 84
+        }
+      ]
+    },
+    {
+      "id": "shipping_cost",
+      "name": "Costo de envío",
+      "type": "text",
+      "values": [
+        {
+          "id": "free",
+          "name": "Gratis",
+          "results": 34
+        }
+      ]
+    },
+    {
+      "id": "shipping_quarantine",
+      "name": "Envío",
+      "type": "text",
+      "values": [
+        {
+          "id": "guaranteed_delivery",
+          "name": "Envío con normalidad",
+          "results": 75
+        }
+      ]
+    },
+    {
+      "id": "ITEM_CONDITION",
+      "name": "Condición",
+      "type": "STRING",
+      "values": [
+        {
+          "id": "2230284",
+          "name": "Nuevo",
+          "results": 80
+        },
+        {
+          "id": "2230581",
+          "name": "Usado",
+          "results": 4
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "author": {
+    "lastname": "Rojas",
+    "name": "Yvo"
+  },
+  "categories": ["ropas y prendas", "mochilas"],
+  "items": [
+    {
+      "address": "Capital Federal",
+      "condition": "new",
+      "free_shipping": false,
+      "id": "MLA812659779",
+      "picture": "http://mla-s2-p.mlstatic.com/976357-MLA32652732415_102019-I.jpg",
+      "price": {
+        "amount": 1300,
+        "currency": "ARS",
+        "decimals": 0
+      },
+      "title": "Mochila Unisex Con Usb 4 Bolsillos Porta Notebook "
+    },
+    {
+      "address": "Capital Federal",
+      "condition": "new",
+      "free_shipping": false,
+      "id": "MLA699704580",
+      "picture": "http://mla-s1-p.mlstatic.com/693027-MLA41694048773_052020-I.jpg",
+      "price": {
+        "amount": 1399,
+        "currency": "ARS",
+        "decimals": 0
+      },
+      "title": "Mochila Porta Notebook Urbana Resistente Acolchada Division Bolsillos Practica Envios* Tsr"
+    },
+    {
+      "address": "Buenos Aires",
+      "condition": "new",
+      "free_shipping": true,
+      "id": "MLA784332309",
+      "picture": "http://mla-s2-p.mlstatic.com/615834-MLA40914647566_022020-I.jpg",
+      "price": {
+        "amount": 1999,
+        "currency": "ARS",
+        "decimals": 0
+      },
+      "title": "Mochila Antirrobo - Tedge - Para Notebook 15.6' Con Puerto Usb 35 Lts"
+    },
+    {
+      "address": "Capital Federal",
+      "condition": "new",
+      "free_shipping": false,
+      "id": "MLA765131734",
+      "picture": "http://mla-s1-p.mlstatic.com/956962-MLA32072652213_092019-I.jpg",
+      "price": {
+        "amount": 1899,
+        "currency": "ARS",
+        "decimals": 0
+      },
+      "title": "Mochila Antirrobo Inteligente Impermeable Con Usb - Notebook"
+    }
+  ]
+}
