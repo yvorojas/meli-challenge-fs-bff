@@ -1,8 +1,8 @@
 import { StatusCodes } from 'http-status-codes'
-import { createRouterInstance } from '../../infrastructure/router'
+import { createRouter } from '../interfaces/server'
 import packageInfo from '../../../package'
 
-const router = createRouterInstance()
+const router = createRouter()
 
 router.get('/', (param, res, next) => {
   res.status = StatusCodes.OK
