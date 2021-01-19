@@ -28,6 +28,8 @@
     }
   },
   "scripts": {
+    "start": "npm run prod",
+    "prod": "NODE_ENV=production npm-run-all build server",
     "build": "npm-run-all clean transpile",
     "transpile": "babel src --out-dir build --source-maps",
     "server": "node  -r dotenv/config ./build",
@@ -35,7 +37,9 @@
     "clean": "rimraf build",
     "watch:dev": "nodemon",
     "coverage": "jest --coverage",
-    "test": "jest . --watch"
+    "test": "jest . --watch",
+    "docker-build": "docker build . -t meli-fe-challenge-bff",
+    "docker-run": "docker run --network=\"host\" -p 8080:8080 --env-file ./.env meli-fe-challenge-bff"
   },
   "repository": "git@github.com:yvorojas/meli-challenge-fs-bff.git",
   "author": "Yvo Rojas Valdes <yvo.rojas.valdes@gmail.com>",
